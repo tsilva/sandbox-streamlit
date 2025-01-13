@@ -1,4 +1,4 @@
-# Streamlit Sandbox
+# sandbox-streamlit
 
 This is a playground repository for experimenting with Streamlit applications.
 
