@@ -5,7 +5,7 @@
   [![Streamlit](https://img.shields.io/badge/Streamlit-latest-FF4B4B.svg)](https://streamlit.io/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **A playground for experimenting with Streamlit applications and interactive data visualizations**
+  **🎨 A playground for experimenting with Streamlit applications and interactive data visualizations 🚀**
 </div>
 
 ## Overview
