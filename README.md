@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-streamlit" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-streamlit/main/logo.png" alt="sandbox-streamlit" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-latest-FF4B4B.svg)](https://streamlit.io/)
