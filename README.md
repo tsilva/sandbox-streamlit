@@ -1,15 +1,17 @@
-> [!NOTE]
-> This repository exists only for experimentation and is currently archived.
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-streamlit/main/logo.png" alt="sandbox-streamlit" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🎨 Build interactive apps and data visualizations with Streamlit 🚀</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
   [![Streamlit](https://img.shields.io/badge/Streamlit-latest-FF4B4B.svg)](https://streamlit.io/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🎨 A playground for experimenting with Streamlit applications and interactive data visualizations 🚀**
-</div>
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
 
 ## Overview
 
